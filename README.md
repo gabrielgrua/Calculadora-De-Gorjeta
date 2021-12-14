@@ -1,5 +1,5 @@
 # Calculadora-De-Gorjeta
-Em um curso, cramos uma calculadora de gorjeta com as tecnologias HTML, CSS e Javascript.
+Criada uma calculadora de gorjeta com as tecnologias HTML, CSS e Javascript.
 
 
 Imagem da Calculadora de Gorjeta:
