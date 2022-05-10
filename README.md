@@ -1,5 +1,7 @@
 # Calculadora-De-Gorjeta
-Criada uma calculadora de gorjeta com as tecnologias HTML, CSS e Javascript.
+Criada uma calculadora de gorjeta com as tecnologias HTML, CSS e Javascript. <br/>
+
+Link: https://gabrielgrua.github.io/Calculadora-De-Gorjeta/ <br/>
 
 
 Imagem da Calculadora de Gorjeta:
